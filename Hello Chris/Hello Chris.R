@@ -1,3 +1,4 @@
 # hello_Chris
 
-message (Hello Chris)
+# added quotation marks
+message ("Hello Chris")
